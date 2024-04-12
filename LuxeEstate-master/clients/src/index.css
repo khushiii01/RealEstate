@@ -1,0 +1,11 @@
+.active {
+  background: #aa0404;
+  color: white;
+}
+.pointer {
+  cursor: pointer;
+}
+/* .hoverable:hover {
+  transform: scale(1.01);
+  box-shadow: 0.4rem 0.4rem 1rem #f5f1f1eb !important;
+} */
